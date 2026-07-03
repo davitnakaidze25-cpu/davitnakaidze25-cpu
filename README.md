@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I'm currently working on **AgroSmart** — an AI-powered autonomous greenhouse management platform for Georgian agriculture.<br><br>🤝 I'm looking to collaborate on **AI for agriculture, embedded systems, Startups, and autonomous monitoring systems.**<br><br>🌱 I'm currently learning **machine learning, embedded AI deployment, software engineering, and scalable IoT architectures.**<br><br>💬 Ask me about **AI-powered agriculture, ESP32 projects, mobile applications, startup building, and STEM competitions.**<br><br>⚡ Fun fact: **I won two national STEM competitions by building an autonomous AI-powered aeroponics system before graduating high school.**
+<br>🔭 I'm currently working on **AgroSmart** — an AI-powered autonomous greenhouse management platform for Georgian agriculture.<br><br>🤝 I'm looking to collaborate on **AI for agriculture, embedded systems, Startups, and autonomous monitoring systems.**<br><br>🌱 I'm currently learning **machine learning, embedded AI deployment, software engineering, and scalable IoT architectures.**<br><br>💬 Ask me about **AI-powered agriculture, ESP32 projects, mobile applications, startup building, and STEM competitions.**<br><br>⚡ Fun fact: **I won two national STEM competitions by building an autonomous AI-powered aeroponics system.**
 
 
 ## 🌐 Socials:
